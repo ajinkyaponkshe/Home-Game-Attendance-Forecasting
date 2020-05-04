@@ -17,8 +17,8 @@ Goal Scored previous: I have assigned number of goals scored by FC Cincinnati in
 Game Difference: I have calculated number of days between each game to analyzed its impact on attendance
 Days between wins: I have calculated number of days since last win to analyzed its impact on attendance
 Additional Feature (Cont.): 
-Goal Difference Category: I have categorized goal differences between the matches and categorize them into                       Positive and Negative to analyzed its impact on attendance
+Goal Difference Category: I have categorized goal differences between the matches and categorize them into Positive and Negative to analyzed its impact on attendance
 Opponent Region: I have categorized opponents into five regions namely East, West, North, South and Central to identify whether any particular pattern exists between attendance and opponent team’s region
 
 Technique Used:
-Linear and Stepwise Regression
+Linear and Stepwise Regression
